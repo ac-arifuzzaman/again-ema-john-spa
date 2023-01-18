@@ -63,3 +63,7 @@ const Shop = () => {
 };
 
 export default Shop;
+
+// I am confused about the pronunciation of these words  ط, س,ص,ش,ث
+// If mango is given in all, then all can be pronounced in the same way
+// What is their correct pronunciation?
