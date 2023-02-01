@@ -4,6 +4,8 @@
   border: 1px solid orange;
   border-radius: 10px;
   position: relative;
+  margin-top: 50px;
+  margin-left: 40px;
 }
 .product img {
   height: 286px;
